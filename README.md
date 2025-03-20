@@ -8,7 +8,7 @@ For React:
 
 The required React File is provided with the name:
 
-Frontend_EventManagementSytem.zip
+Client_Frontend
 
 1st step: cd - to the project directory and npm install. (Should install the node modules)
 
@@ -16,9 +16,9 @@ Frontend_EventManagementSytem.zip
 
 For ASP .Net Core Api:
 
-The required React File is provided with the name:
+The required ASP .Net Core Web Api File is provided with the name:
 
-Backend_EventManagementSytem.zip
+Server_Backend
 
 1st step: In appsettings.json – Change the server name to current system database server name.
 
@@ -26,7 +26,7 @@ Backend_EventManagementSytem.zip
 
 For Database:
 
-The required SQL File is provided with the name Database_Schema_EventManagementSystem.sql
+The required SQL File is provided in Database folder with the name Database_Schema_EventManagementSystem.sql
 
 Notes: 
 
